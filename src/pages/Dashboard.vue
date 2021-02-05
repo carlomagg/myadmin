@@ -64,7 +64,7 @@
         <card type="chart">
           <template slot="header">
             <h5 class="card-category">{{$t('dashboard.usersignup')}}</h5>
-            <h3 class="card-title"><i class="tim-icons icon-delivery-fast text-info "></i> 3,500€</h3>
+            <h3 class="card-title"><i class="tim-icons icon-delivery-fast text-info "></i> 3,500K</h3>
           </template>
           <div class="chart-area">
             <bar-chart style="height: 100%"
